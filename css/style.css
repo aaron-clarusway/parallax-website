@@ -24,17 +24,17 @@ body, html{
 }
 
 .pimg1{
-  background-image:url('../img/image1.jpg');
+  background-image:url(https://github.com/aaron-clarusway/parallax-website/blob/master/img/Image1.jpg);
   min-height:100%;
 }
 
 .pimg2{
-  background-image:url('../img/image2.jpg');
+  background-image:url('.https://github.com/aaron-clarusway/parallax-website/blob/master/img/Image2.jpg);
   min-height:400px;
 }
 
 .pimg3{
-  background-image:url('../img/image3.jpg');
+  background-image:url(https://github.com/aaron-clarusway/parallax-website/blob/master/img/Image3.jpg);
   min-height:400px;
 }
 
