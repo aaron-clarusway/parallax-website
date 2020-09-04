@@ -24,7 +24,7 @@ body, html{
 }
 
 .pimg1{
-  background-image: url("images/image1.jpg");
+  background-image: url("https://raw.githubusercontent.com/aarob-clarusway/parallax-website/master/path/to/images/image1.jpg");
   min-height:100%;
 }
 
